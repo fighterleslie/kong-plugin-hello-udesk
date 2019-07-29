@@ -10,7 +10,7 @@ return {
       config = {
         type = "record",
         fields = {
-          can_say_hello = { type = "boolean", default = false }
+          can_say_hello = { type = "boolean", default = true }
         }
       }
     }
